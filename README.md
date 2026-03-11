@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with any opportunities to grow as a software developer.<br>🌱 I’m currently learning Databases, Machine Learning, and Web Application Development<br>💬 Ask me about Frontend Development, C++, React, TypeScript<br>⚡ Fun fact: I am a big Los Angeles Lakers fan!
+🤝 I’m looking for help with any opportunities to grow as a software developer or data engineer.<br>🌱 I’m currently learning Databases, Machine Learning, and Web Application Development<br>💬 Ask me about Frontend Development, C++, React, TypeScript<br>⚡ Fun fact: I am a big Los Angeles Lakers fan!
 
 
 ## 🌐 Socials:

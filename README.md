@@ -1,7 +1,8 @@
 # 💫 About Me:
-🎓 CS Graduate from Clemson University | Data Engineer Intern @ InvestiNet<br>
+🎓 CS Graduate from Clemson University | Data Management Support and
+Operations Analyst <br>
 🌐 Personal Website: [thepascualsebastian.com](https://thepascualsebastian.com/)<br>
-💬 Ask me about Frontend Development, C++, React, TypeScript, SQL, and Databases<br>
+💬 Ask me about Frontend Development, Python, SQL, C++, React, TypeScript, and Databases<br>
 ⚡ Fun fact: I am a big Los Angeles Lakers fan!
 
 ## 🌐 Socials:
